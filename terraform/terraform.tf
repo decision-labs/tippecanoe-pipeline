@@ -6,7 +6,6 @@ variable "aws_region" {
 
 variable "AWS_ACCESS_KEY_ID_LAMBDA" {}
 variable "AWS_SECRET_ACCESS_KEY_LAMBDA" {}
-variable "LAMBDA_ROLE_ARN" {}
 variable "S3_BUCKET" {}
 
 # this identifies that the config runs on AWS
